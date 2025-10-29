@@ -1,4 +1,4 @@
-# Utilziacion
+# Utiliziacion
 
       git clone "link del repo"
       cd "nombre de la carpeta"
